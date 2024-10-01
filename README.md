@@ -1,2 +1,2 @@
 # toy_ds_project
-Created for DSCI 100 project
+project creation date: 2024-10-01
